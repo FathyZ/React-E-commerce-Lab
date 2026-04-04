@@ -1,0 +1,267 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Small Burger",
+      "count": 0,
+      "price": 70,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Small Fries",
+      "count": 0,
+      "price": 30,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Small Drink",
+      "count": 0,
+      "price": 10,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "name": "Medium Burger",
+      "count": 0,
+      "price": 90,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Medium Fries",
+      "count": 0,
+      "price": 50,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Medium Drink",
+      "count": 0,
+      "price": 30,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 7,
+      "name": "Large Burger",
+      "count": 0,
+      "price": 120,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "name": "Large Fries",
+      "count": 0,
+      "price": 80,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "name": "Large Drink",
+      "count": 0,
+      "price": 30,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 10,
+      "name": "Double Cheese Burger",
+      "count": 0,
+      "price": 150,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "name": "Chicken Zinger",
+      "count": 0,
+      "price": 130,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "name": "Veggie Delight",
+      "count": 0,
+      "price": 100,
+      "isInCart": false,
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "name": "Waffle Fries",
+      "count": 0,
+      "price": 60,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 14,
+      "name": "Cheese Loaded Fries",
+      "count": 0,
+      "price": 85,
+      "isInCart": false,
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "name": "Vanilla Milkshake",
+      "count": 0,
+      "price": 55,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 16,
+      "name": "Chocolate Milkshake",
+      "count": 0,
+      "price": 55,
+      "isInCart": false,
+      "categoryId": 3
+    },
+    {
+      "id": 17,
+      "name": "Apple Pie",
+      "count": 0,
+      "price": 40,
+      "isInCart": false,
+      "categoryId": 4
+    },
+    {
+      "id": 18,
+      "name": "Chocolate Sundae",
+      "count": 0,
+      "price": 65,
+      "isInCart": false,
+      "categoryId": 4
+    },
+    {
+      "id": 20,
+      "name": "6pc Chicken Nuggets",
+      "count": 0,
+      "price": 60,
+      "isInCart": false,
+      "categoryId": 5
+    },
+    {
+      "id": 21,
+      "name": "9pc Chicken Nuggets",
+      "count": 0,
+      "price": 85,
+      "isInCart": false,
+      "categoryId": 5
+    },
+    {
+      "id": 22,
+      "name": "Onion Rings",
+      "count": 0,
+      "price": 40,
+      "isInCart": false,
+      "categoryId": 6
+    },
+    {
+      "id": 23,
+      "name": "Mozzarella Sticks",
+      "count": 0,
+      "price": 70,
+      "isInCart": false,
+      "categoryId": 6
+    },
+    {
+      "id": 24,
+      "name": "Coleslaw",
+      "count": 0,
+      "price": 25,
+      "isInCart": false,
+      "categoryId": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "hammouda.fathy@gmail.com",
+      "password": "$2a$10$TJL265IXUZxZo36P62RWOeu6DEGZDLmkrQneol05MEGlMx/zhFu2q",
+      "username": "fathyz",
+      "confirmPassword": "12345678",
+      "id": 1
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$lxbHeY3Glf9lKqsMmKpU0uxO3Xc8PGV8WH/RsK7kxvJ10q943wUhC",
+      "username": "ahmed",
+      "confirmPassword": "12345678",
+      "id": 2
+    },
+    {
+      "email": "hatem@gmail.com",
+      "password": "$2a$10$jUt5g01xh40YJnUQxP1T4OrZS5zxQy6T7dmdZ16IWuOUoCZ2sQMQq",
+      "username": "hatoomy",
+      "confirmPassword": "12345678",
+      "id": 3
+    },
+    {
+      "email": "a@g.com",
+      "password": "$2a$10$lfjXiFjzLOl1dGeYsmPL5eTVZPUESRTtXTrr5B2M8RQ8QC8BEcfJC",
+      "username": "ahmed",
+      "confirmPassword": "12345678",
+      "id": 4
+    },
+    {
+      "email": "ah@g.com",
+      "password": "$2a$10$0BmhBkUcx7dA1Xem5kUaEeNW81ZZv1nLH5ZMKMh/QOK2Y5BnJByl6",
+      "username": "fathyzzzzzzz",
+      "confirmPassword": "12341234",
+      "id": 5
+    },
+    {
+      "email": "ah@g.com",
+      "password": "$2a$10$lxJUyXWIIneZyaE99O9Oi.ItsNdVPn1wuJh1YDQ8GF/KXyXyMZ2/6",
+      "username": "fathyzzzzzzz",
+      "confirmPassword": "12341234",
+      "id": 6
+    },
+    {
+      "email": "a@ggg.com",
+      "password": "$2a$10$rpyV61uSu80J2q/Vw.fW5ecpDnAsDkISP8MY561g6nr4RwyxVoFJO",
+      "username": "a222",
+      "confirmPassword": "12345678",
+      "id": 7
+    },
+    {
+      "email": "aaaa@ads.com",
+      "password": "$2a$10$HqYvicPggX0eUH.Pmj8Fx.GBu.xH3lPvhQCt0HPCELKdujwW8gUM.",
+      "username": "aaaaa",
+      "confirmPassword": "12341234",
+      "id": 8
+    },
+    {
+      "email": "lolo@gmail.com",
+      "password": "$2a$10$kMUYWmtdn15cIEe.uhLkCep.AnkuYHPytXJYM7gz7RUJ6.w0nuWwu",
+      "username": "loloafify",
+      "confirmPassword": "12345678",
+      "id": 9
+    },
+    {
+      "email": "ahmedfathy2177@gmail.com",
+      "password": "$2a$10$YVu9x7hgI3jDba4IdaxyTuuESZJ8EpfRlZQMuqxy2Nl2s.bNul6F6",
+      "username": "fathy_z",
+      "confirmPassword": "12345678",
+      "id": 10
+    },
+    {
+      "email": "joe@joe.jo",
+      "password": "$2a$10$XL2t0fAQUZrB4u3eNswXpu4U0S.3AIwb9qgSg65pXQ7cHy6.WikjG",
+      "username": "JoeZ",
+      "confirmPassword": "joejoejoe",
+      "id": 11
+    }
+  ]
+}
